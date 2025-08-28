@@ -1,6 +1,10 @@
-Title: "Situationships"
-Date: 25 August 2025
-Tags: [observation, reflections]
+---
+layout: post
+title: "Situationships"
+date: 2025-08-24
+tags: [journal],[observation],[reflections]
+---
+
 Why do situationships hurt and feel so good at same time?...Maybe its the False Hope that we holding onto with that one person...the feeling of love that they show us and wht it feels to be finally in a "relationship".
 I recently got out of a very wonderful situationship...i dont regret it ..we both were self aware and not ready for the realtionships. Wht we thought would be just a 2 week conversation ended up wfor an almost a year of ups and downs.
 We were too good to be true...like almost a couple but scared to commit...at the end we ended the things so we can focus on ourselves. But I am glad we ended this.on a good note.
