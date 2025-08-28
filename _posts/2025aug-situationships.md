@@ -2,7 +2,7 @@
 layout: post
 title: "Situationships"
 date: 2025-08-24
-tags: [journal],[observation],[reflections]
+tags: [journal][observation][reflections]
 ---
 
 Why do situationships hurt and feel so good at same time?...Maybe its the False Hope that we holding onto with that one person...the feeling of love that they show us and wht it feels to be finally in a "relationship".
